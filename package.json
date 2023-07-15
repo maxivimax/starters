@@ -1,0 +1,23 @@
+{
+  "name": "@maxivimax/starters",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "starter": "index.js"
+  },
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "author": "",
+  "dependencies": {
+    "ascii-art": "^2.8.5",
+    "fs": "^0.0.1-security",
+    "fs-extra": "^11.1.1",
+    "inquirer": "^9.2.7",
+    "node-fetch": "^2.6.1"
+  }
+}
